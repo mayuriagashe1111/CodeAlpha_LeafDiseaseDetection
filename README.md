@@ -36,8 +36,7 @@ matplotlib==3.1.1
 pillow==9.5.0
 
 Install dependencies with:
-```bash
-pip install -r requirements.txt ```
+``` bash pip install -r requirements.txt ```
 
 ## Usage
 1. Clone the repository:
@@ -48,11 +47,11 @@ git clone https://github.com/mayuriagashe1111/CodeAlpha_LeafDiseaseDetection.git
 jupyter notebook
 4. Train the models and test predictions.
 
-##Results
+## Results
 CNN performed better for this dataset due to its smaller size and simplicity.
 VGG16 still provides strong generalization, but may need more data to match CNN accuracy.
 
-##Contact
+## Contact
 For questions or contributions, feel free to create an issue or pull request.
 
 
