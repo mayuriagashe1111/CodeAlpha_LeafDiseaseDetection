@@ -37,7 +37,7 @@ pillow==9.5.0
 
 Install dependencies with:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ## Usage
 1. Clone the repository:
@@ -54,5 +54,7 @@ VGG16 still provides strong generalization, but may need more data to match CNN 
 
 ##Contact
 For questions or contributions, feel free to create an issue or pull request.
+
+
 
 
